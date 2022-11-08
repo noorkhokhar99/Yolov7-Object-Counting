@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Yolov7-Cigarette-Censor/blob/main/Screen%20Shot%201444-04-12%20at%2011.51.38%20PM.png">
+<img src="https://github.com/noorkhokhar99/Yolov7-Object-Counting/blob/main/Screen%20Shot%201444-04-13%20at%2011.20.19%20AM.png">
 </p>
 
 
